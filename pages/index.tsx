@@ -20,7 +20,11 @@ const ComponentsList: Array<ComponentItem> = [
   { id: 2, name: "Typography 文本", href: "/typography", color: color.BLUE },
   { id: 3, name: "Cell 单元格", href: "cell", color: color.GREEN },
   { id: 4, name: "Icon 图标", href: "icon", color: color.GRAY },
-  { id: 5, name: "Image 图片", href: "image", color: color.GRAY }
+  { id: 5, name: "Image 图片", href: "image", color: color.GRAY },
+  { id: 6, name: "Popup 弹出层", href: "popup", color: color.GRAY },
+  { id: 7, name: "内置样式", href: "style", color: color.GRAY },
+  { id: 8, name: "Toast 轻提示", href: "toast", color: color.GRAY },
+
 ]
 import Link from "next/link"
 import React from 'react';
