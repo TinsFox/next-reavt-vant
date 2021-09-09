@@ -14,3 +14,65 @@ a {
 * {
   box-sizing: border-box;
 }
+.demo-card {
+  padding: 10px 10px;
+  background-color: #fff;
+
+ 
+}
+img {
+  width: 88px;
+  height: 88px;
+  margin-right: 10px;
+}
+
+content {
+  flex: 1;
+}
+
+.child {
+  width: 40px;
+  height: 40px;
+  background: #f2f3f5;
+  border-radius: 4px;
+}
+.colon {
+  display: inline-block;
+  margin: 0 4px;
+  color: #ee0a24;
+}
+.block {
+  display: inline-block;
+  width: 22px;
+  color: #fff;
+  font-size: 12px;
+  text-align: center;
+  background-color: #ee0a24;
+}
+
+.custom-image .rv-empty__image {
+  width: 90px;
+  height: 90px;
+}
+.bottom-button {
+  width: 160px;
+  height: 40px;
+}
+
+.notice-swipe {
+  height: 40px;
+  line-height: 40px;
+}
+.my-swipe .rv-swipe-item {
+  color: #fff;
+  font-size: 20px;
+  line-height: 150px;
+  text-align: center;
+  background-color: #39a9ed;
+}
+.custom-pagination--bullet {
+  width: 10px !important;
+  height: 4px !important;
+  margin: 0 2px !important;
+  border-radius: 2px !important;
+}
