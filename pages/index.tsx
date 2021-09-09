@@ -28,6 +28,9 @@ const ComponentsList: Array<ComponentItem> = [
   { id: 10, name: "Checkbox 复选框", href: "checkbox", color: color.GRAY },
   { id: 11, name: "Calendar 日历", href: "calendar", color: color.GRAY },
   { id: 12, name: "Field 输入框", href: "field", color: color.GRAY },
+  { id: 13, name: "DatetimePicker 时间选择", href: "datetime-picker", color: color.GRAY },
+  { id: 14, name: "NumberKeyboard 数字键盘", href: "number-keyboard", color: color.GRAY },
+  { id: 15, name: "PasswordInput 密码输入框", href: "password-input", color: color.GRAY },
 ]
 import Link from "next/link"
 import React from 'react';

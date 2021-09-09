@@ -2604,9 +2604,9 @@ react-transition-group@^4.4.1, react-transition-group@^4.4.2:
     prop-types "^15.6.2"
 
 react-vant@^0.4.6:
-  version "0.4.6"
-  resolved "https://registry.yarnpkg.com/react-vant/-/react-vant-0.4.6.tgz#09d6bc95f0946459f9acea6c7446788108fb2d5f"
-  integrity sha512-J7SML4f+7TpC3fb3XiBgubO1ND/KeUPAvPwKp6NexYQRcWXy5IjyL2epv2ETtam8OInZW17M7nmT9BnH+3iCEA==
+  version "0.4.10"
+  resolved "https://registry.yarnpkg.com/react-vant/-/react-vant-0.4.10.tgz#312f2fa2570c6075a841330f5b455a3135f577c0"
+  integrity sha512-1Og5Aec78PCEXroQKBAKed0LeEbSrwYWMryVwfteriQX/23lsufATp8MxEPq5+JKWQjMSEGtSwBdaPiEQJGaIg==
   dependencies:
     "@vant/icons" "^1.7.0"
     "@vant/popperjs" "^1.1.0"

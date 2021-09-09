@@ -3,10 +3,10 @@ import { Cell, Field } from 'react-vant';
 const FieldPage = () => {
     const [value1, setValue1] = useState('');
     const [value2, setValue2] = useState('');
-    const [tel, setTel] = useState();
-    const [digit, setDigit] = useState();
-    const [number, setNumber] = useState();
-    const [password, setPasswrod] = useState();
+    const [tel, setTel] = useState("");
+    const [digit, setDigit] = useState("");
+    const [number, setNumber] = useState("");
+    const [password, setPasswrod] = useState("");
     return <div>
         <Cell.Group>
             <Field value={value1} type="text" label="文本" placeholder="请输入用户名" onChange={setValue1} />
