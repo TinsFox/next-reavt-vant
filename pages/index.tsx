@@ -24,7 +24,10 @@ const ComponentsList: Array<ComponentItem> = [
   { id: 6, name: "Popup 弹出层", href: "popup", color: color.GRAY },
   { id: 7, name: "内置样式", href: "style", color: color.GRAY },
   { id: 8, name: "Toast 轻提示", href: "toast", color: color.GRAY },
-
+  { id: 9, name: "Cascader 级联选择器", href: "cascader", color: color.GRAY },
+  { id: 10, name: "Checkbox 复选框", href: "checkbox", color: color.GRAY },
+  { id: 11, name: "Calendar 日历", href: "calendar", color: color.GRAY },
+  { id: 12, name: "Field 输入框", href: "field", color: color.GRAY },
 ]
 import Link from "next/link"
 import React from 'react';
